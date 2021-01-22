@@ -23,9 +23,13 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe acessibility on the web to someone new to programming?
-2. Talk about 3 different things you can do to ensure your website is accessible. 
+Some people use screen readers to read websites, and many websites are not designed with this in mind, and the information in them is difficult or impossible to access with a screen reader. We can attach various forms of information that doesn't necessarily affect how the image is displayed on a normal visual display, but does provide further information about its content. This can make it much easier to navigate with a screen reader.
+2. Talk about 3 different things you can do to ensure your website is accessible.
+Using semantic HTML can make it easier to navigate the page with a screen reader, and using descriptive alt text for images can make the information in the images accessible to someone who can't see them.
 3. How would you explain the concept of a variable to someone new to programming?
+A variable is a container for information stored by the computer.
 4. What is the purpose of using functions in code?
+If we need to do the same thing multiple times, we can just call the same function instead of rewriting the same code in multiple places.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
