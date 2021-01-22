@@ -136,6 +136,9 @@ button:hover{
 }
 
 @media (max-width: 500px) {
+    body {
+        font-size: 1.2rem;
+    }
     nav a {
         font-size: 1.2rem;
     }
@@ -150,8 +153,15 @@ button:hover{
     }
 
     .artist {
-        width: 80%;
+        width: 90%;
         height: auto;
     }
 
+    .artist img {
+        width: 80%;
+    }
+
+    .title-container div {
+        height: 40vh;
+    }
 }
